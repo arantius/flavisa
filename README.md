@@ -1,3 +1,8 @@
+# Downloads
+
+ * http://static.arantius.com/misc/flavisa-0.2.zip
+ * http://static.arantius.com/misc/flavisa-0.1.zip
+
 # Documentation
 
 Flavisa is a sort of forced portmanteau of Flash Video Saver.
